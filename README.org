@@ -1,0 +1,7 @@
+* YCoin: an experimental blockchain project in Rust
+This is a experimental blockchain implementation intended for learning blockchain and Rust.
+
+It has very limited features:
+- Genesis block generation
+- Mining block
+- Transaction handling
